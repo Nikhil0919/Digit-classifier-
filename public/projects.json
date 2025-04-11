@@ -1,0 +1,18 @@
+[
+    {
+    "projectName":"Intranet Data Storage",
+    "details":"Developed a project using HTML, CSS, Javascript and Java Server Pages. It allows the admin to create a user's account and provide the user the username-password sequence. The user is forced to change his/her password on the first login. After login, the user can upload and download files up to 10MB. The extensions allowed to be uploaded are .jpg, .png, .pdf, .doc, .java, .py, .html, .css, .js and .jsp."
+    },
+    {
+    "projectName":"Java Project: Student Management System",
+    "details":"Developed a desktop application to manage student records, including features for adding, updating, deleting, and searching students' academic information."
+    },
+    {
+    "projectName":"Java Project: Passwords Management System",
+    "details":"Developed a desktop application to manage all the passords, including features for adding, updating and deleting the stored passwords. The application can be accessed using the combination of username-password sequence and an image."
+    },
+    {
+    "projectName":"React Project: Task Manager Web App",
+    "details":"Built a responsive and intuitive task management web application that allows users to create, update, delete, and organize tasks with real-time sync and user authentication."
+    }
+    ]
