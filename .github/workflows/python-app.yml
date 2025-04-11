@@ -22,4 +22,4 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest backend/app/tests/
+         PYTHONPATH=backend pytest backend/app/tests/
